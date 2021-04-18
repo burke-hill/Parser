@@ -1,0 +1,12 @@
+No Errors Found
+
+29 2 x 17 2 y 17 2 z 17 2 v 17 2 w 18 30 2 a 18 29 2 x 17 2 y 17 2 u 17 2 v 18 30 2 b 18 29 2 y 17 2 z 17 2 v 18 30 2 c 18 29 2 y 17 2 z 18 21 2 z 20 3 1 18 2 x 20 2 y 4 2 z 4 2 w 22 18 21 2 y 20 2 x 4 2 u 4 2 w 18 27 2 c 22 18 21 2 z 20 3 2 18 2 u 20 2 z 4 2 w 18 27 2 b 22 18 21 2 x 20 3 1 18 2 y 20 3 2 18 2 z 20 3 3 18 2 v 20 3 4 18 2 w 20 3 5 18 2 x 20 2 v 4 2 w 18 31 2 z 18 27 2 a 18 22 19
+
+varsym identsym x commasym identsym y commasym identsym z commasym identsym v commasym identsym w semicolonsym procsym identsym a semicolonsym varsym identsym x commasym identsym y commasym identsym u commasym identsym v semicolonsym procsym identsym b semicolonsym varsym identsym y commasym identsym z commasym identsym v semicolonsym procsym identsym c semicolonsym varsym identsym y commasym identsym z semicolonsym beginsym identsym z becomessym numbersym 1 semicolonsym identsym x becomessym identsym y plussym identsym z plussym identsym w endsym semicolonsym beginsym identsym y becomessym identsym x plussym identsym u plussym identsym w semicolonsym callsym identsym c endsym semicolonsym beginsym identsym z becomessym numbersym 2 semicolonsym identsym u becomessym identsym z plussym identsym w semicolonsym callsym identsym b endsym semicolonsym beginsym identsym x becomessym numbersym 1 semicolonsym identsym y becomessym numbersym 2 semicolonsym identsym z becomessym numbersym 3 semicolonsym identsym v becomessym numbersym 4 semicolonsym identsym w becomessym numbersym 5 semicolonsym identsym x becomessym identsym v plussym identsym w semicolonsym writesym identsym z semicolonsym callsym identsym a semicolonsym endsym periodsym
+
+
+                        pc      bp      sp
+Intial Values           0       999     1000
+0 0 0           1       999     1000
+Register: 0 0 0 0 0 0 0 0
+Stack: 0 0 0 0 0
